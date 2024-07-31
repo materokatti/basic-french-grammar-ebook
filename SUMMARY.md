@@ -2,6 +2,9 @@
 
 - [소개](README.md)
 
+## 0 장 : 기초 문법
+- [알파벳](part0/chapter1_alphabets.md)
+
 ## 1 장 : 관사
 
 - [명사와 부정관사](part1/chapter1_noms.md)
