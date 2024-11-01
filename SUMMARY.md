@@ -11,3 +11,7 @@
 - [부정관사](part1/chapter2_articlesIndéfinis.md)
 - [정관사](part1/chapter3_articlesDéfinis.md)
 - [부분 관사](part1/chapter4_articlesPartitifs.md)
+
+## 2 장 : 명사의 성별
+
+- [성별](part2/chapter1_genre.md)
